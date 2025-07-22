@@ -18,6 +18,8 @@ Terminal-based game where you solve simple mathematical expressions and have fun
 2. and run the file 'start.py'
    
    `cd math-fun`
+
+   `pip install -r requirements.txt`
    
    `python start.py`
 
