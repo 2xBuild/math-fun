@@ -17,10 +17,10 @@ Terminal-based game where you solve simple mathematical expressions and have fun
 (If you are beginner, here isa  guide to download: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 # How to use
-> Run the 'start.py' file, either manually or 'python start.py'
-> Game will open, you will be asked for your name. submit it and start
-> to understand how it works and what are the commands , write help and press enter
-> You will have list of commands and their usage
+>> Run the 'start.py' file, either manually or 'python start.py'
+>> Game will open, you will be asked for your name. submit it and start
+>> to understand how it works and what are the commands , write help and press enter
+>> You will have list of commands and their usage
 
 → Available commands
 start, lvl, game, config, reset, time_limit, quiz_amount, digit, exit
