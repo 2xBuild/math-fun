@@ -32,9 +32,9 @@ start, lvl, game, config, reset, time_limit, quiz_amount, digit, exit
 
 There are 3 type of games 
 
-(1.) Classic : You answer set of questions and get result when you are done. It track your time taken, correct and incorrect answer.
-(2.) Check : It force you to answer correctly to move to next question. It track your time and incorrect attempts.
-(3.) Times : It requires you to answer in set time only, if you don't it moves to next question itself. you can always edit time_limit.
+1. Classic : You answer set of questions and get result when you are done. It track your time taken, correct and incorrect answer.
+2. Check : It force you to answer correctly to move to next question. It track your time and incorrect attempts.
+3. Times : It requires you to answer in set time only, if you don't it moves to next question itself. you can always edit time_limit.
 
 
 # Levels
