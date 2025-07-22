@@ -13,7 +13,7 @@ Terminal-based game where you solve simple mathematical expressions and have fun
 # Installation
 1. Download this repo.
   
-  `git clone https://github.com/2xBuild/math-fun`
+   `git clone https://github.com/2xBuild/math-fun`
   
 2. and run the file 'start.py'
    
