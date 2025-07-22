@@ -1,26 +1,26 @@
 <img width="1018" height="468" alt="Screenshot 2025-07-22 234905" src="https://github.com/user-attachments/assets/0a28e929-4c8e-41ff-a46e-b5b5b6ecb73f" />
 
 # Math-Fun
-Terminal based game where you solve simple mathematical expressions and have fun. It don't only allow you customization but also tells your detailed performance.
+Terminal-based game where you solve simple mathematical expressions and have fun. It not only allows you to customization but also tells your detailed performance.
 
 # Features 
-→ 21 quiz levels covering various math topics.
-→ Multiple game modes: classic, check, timed.
-→ Customizable difficulty (number of digits, question amount, time limit).
-→ Track solved/unsoved and time taken.
-→ Reset and config options.
+1. 21 quiz levels covering various math topics.
+2. Multiple game modes: classic, check, timed.
+3. Customizable difficulty (number of digits, question amount, time limit).
+4. Track solved/unsolved and time taken.
+5. Reset and config options.
 
 # Installation
 → Download this repo.
 → and run the file 'start.py'
 
-(If you are beginner here is guide to download: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+(If you are beginner, here isa  guide to download: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 # How to use
-→ run the 'start.py' file , either manually or 'python start.py'
-→ game will open, you will be asked for your name. submit it and start
+→ Run the 'start.py' file, either manually or 'python start.py'
+→ Game will open, you will be asked for your name. submit it and start
 → to understand how it works and what are the commands , write help and press enter
-→ you will have list of commands and their usage
+→ You will have list of commands and their usage
 
 → Available commands
 start, lvl, game, config, reset, time_limit, quiz_amount, digit, exit
