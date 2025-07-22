@@ -12,7 +12,10 @@ Terminal-based game where you solve simple mathematical expressions and have fun
 
 # Installation
 1. Download this repo.
-2. and run the file 'start.py'
+  `git clone https://github.com/2xBuild/math-fun`
+3. and run the file 'start.py'
+   `cd math-fun`
+   `python start.py`
 
 (If you are a beginner, here is a  guide to download: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
