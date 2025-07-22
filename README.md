@@ -14,31 +14,31 @@ Terminal-based game where you solve simple mathematical expressions and have fun
 1. Download this repo.
 2. and run the file 'start.py'
 
-(If you are beginner, here isa  guide to download: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+(If you are a beginner, here is a  guide to download: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 # How to use
 1. Run the 'start.py' file, either manually or 'python start.py'
-2. Game will open, you will be asked for your name. submit it and start
-3. to understand how it works and what are the commands , write help and press enter
-4. You will have list of commands and their usage
+2. Game will open, you will be asked for your name. Submit it and start
+3. To understand how it works and what the commands are, write help and press Enter
+4. You will have a list of commands and their usage
 
 5. Available commands
 start, lvl, game, config, reset, time_limit, quiz_amount, digit, exit
 
-6. you can use needed commands to set your preferred config or go with default.
-7.  use start to start the game.
+6. You can use needed commands to set your preferred config or go with default.
+7. Use start to start the game.
 
 # Games
 
-There are 3 type of games 
+There are 3 types of games 
 
-1. Classic : You answer set of questions and get result when you are done. It track your time taken, correct and incorrect answer.
-2. Check : It force you to answer correctly to move to next question. It track your time and incorrect attempts.
-3. Times : It requires you to answer in set time only, if you don't it moves to next question itself. you can always edit time_limit.
+1. Classic: You answer a set of questions and get a result when you are done. It track your time taken, correct and incorrect answers.
+2. Check: It forces you to answer correctly to move to the next question. It tracks your time and incorrect attempts.
+3. Timed: It requires you to answer in a set time only, if you don't it moves to the next question itself. You can always edit time_limit.
 
 
 # Levels
-There are 21 Levels, each have different kind of math expressions.
+There are 21 Levels; each has a different kind of math expression.
 1. Even or Odd  
 2. Addition  
 3. Subtraction  
@@ -62,10 +62,10 @@ There are 21 Levels, each have different kind of math expressions.
 21. Word Problems
 
 # Digits
-It means how long a number will be in expressions. You can edit it with digit command. The more digit you set, the difficulty rises proportionately.
+It means how long a number will be in expressions. You can edit it with the digit command. The more digits you set, the difficulty rises proportionately.
 
 # Config 
-your info is saved in 'user.json' file. you can always reset it with 'reset' command or change it.
+Your info is saved in 'user.json' file. You can always reset it with the 'reset' command or change it.
 
 # Contribution 
 if you feel this game should be improved/be more efficient or have extra features, feel free to contribute in it. 
