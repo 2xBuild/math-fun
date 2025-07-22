@@ -1,0 +1,8 @@
+{
+    "level": 21,
+    "name": "Test_user",
+    "game": "classic",
+    "time_limit": 3.5,
+    "quiz_amount": 5,
+    "digit_in_number": 2
+}
