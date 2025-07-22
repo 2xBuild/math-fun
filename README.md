@@ -1,7 +1,7 @@
 <img width="1018" height="468" alt="Screenshot 2025-07-22 234905" src="https://github.com/user-attachments/assets/0a28e929-4c8e-41ff-a46e-b5b5b6ecb73f" />
 
 # Math-Fun
-Terminal-based game where you solve simple mathematical expressions and have fun. It not only allows you to customization but also tells your detailed performance.
+Terminal-based game where you solve simple mathematical expressions and have fun. It not only allows you to customize but also provides detailed performance stats.
 
 # Features 
 1. 21 quiz levels covering various math topics.
@@ -17,24 +17,24 @@ Terminal-based game where you solve simple mathematical expressions and have fun
 (If you are beginner, here isa  guide to download: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 # How to use
->> Run the 'start.py' file, either manually or 'python start.py'
->> Game will open, you will be asked for your name. submit it and start
->> to understand how it works and what are the commands , write help and press enter
->> You will have list of commands and their usage
+1. Run the 'start.py' file, either manually or 'python start.py'
+2. Game will open, you will be asked for your name. submit it and start
+3. to understand how it works and what are the commands , write help and press enter
+4. You will have list of commands and their usage
 
-→ Available commands
+5. Available commands
 start, lvl, game, config, reset, time_limit, quiz_amount, digit, exit
 
-→ you can use needed commands to set your preferred config or go with default.
-→ use start to start the game.
+6. you can use needed commands to set your preferred config or go with default.
+7.  use start to start the game.
 
 # Games
 
 There are 3 type of games 
 
-→ Classic : You answer set of questions and get result when you are done. It track your time taken, correct and incorrect answer.
-→ Check : It force you to answer correctly to move to next question. It track your time and incorrect attempts.
-→ Times : It requires you to answer in set time only, if you don't it moves to next question itself. you can always edit time_limit.
+(1.) Classic : You answer set of questions and get result when you are done. It track your time taken, correct and incorrect answer.
+(2.) Check : It force you to answer correctly to move to next question. It track your time and incorrect attempts.
+(3.) Times : It requires you to answer in set time only, if you don't it moves to next question itself. you can always edit time_limit.
 
 
 # Levels
